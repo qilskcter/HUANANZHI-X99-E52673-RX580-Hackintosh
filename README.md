@@ -4,8 +4,8 @@
 
 | | Version |
 |-|---------|
-| OpenCore | 0.9.2 |
-| macOS | Monterey 12.6.6 |
+| OpenCore | 0.9.3 |
+| macOS | Ventura 13.4.1 |
 
 ![Screenshot](ScreenShot.png)
 
@@ -25,10 +25,10 @@
 | ``Features``|``Working``| 
 |-------------|-----------|
 | ``Audio``|✅|
-| ``Keyboard and Trackpad``|✅|
+| ``Keyboard``|✅|
 | ``Headphone Jack``|✅|
 | ``Graphics``|✅|
-| ``Power Management``|✅|                                                                        
+| ``Power Management``|✅|                                                                   
 | ``USB Port``|✅|
 | ``Facetime and iMessage``|✅|
 | ``Ethernet``|✅|
