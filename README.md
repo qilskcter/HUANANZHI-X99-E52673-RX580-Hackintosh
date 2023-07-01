@@ -1,4 +1,4 @@
-# <div align="center">X99 E5-2673 v3 RX580 Hackintosh</div> 
+# <div align="center">HUANANZHI X99 E5-2673 v3 RX580 Hackintosh</div> 
 <h5>EFI Inspired by <a href="https://github.com/vncsmnl/EFI-HUANANZHI-X99-BD4-HACKINTOSH">EFI-HUANANZHI-X99-BD4-HACKINTOSH</a>
 
 ## Intro
